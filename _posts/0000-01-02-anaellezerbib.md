@@ -1,6 +1,5 @@
 ---
-layout: slide hello
+layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Fisrt branch and first contribution
